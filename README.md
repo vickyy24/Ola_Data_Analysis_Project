@@ -1,6 +1,6 @@
 # Ola Data Analysis
 ## 🔎 Project Overview
-This project focuses on analyzing ride data for OLA in Bengaluru using SQL and Power BI, MS Excel. The dataset includes ride bookings, cancellations, customer behaviors, and revenue data for one month. The primary goal was to extract actionable insights and create interactive dashboards for decision-making.
+This project focuses on analyzing ride data for OLA in Bengaluru using SQL and Power BI, MS Excel. The dataset includes ride bookings, cancellations, customer behaviours, and revenue data for one month. The primary goal was to extract actionable insights and create interactive dashboards for decision-making.
 
 The project highlights trends in booking statuses, revenue patterns, customer and driver ratings, and cancellation reasons to provide a comprehensive overview of OLA’s operational performance.
 
