@@ -106,6 +106,7 @@ This project provided key insights into OLA’s ride operations:
 - **Revenue Insights:** Cash payments contributed the most to overall revenue.
 - **Cancellations:** Driver and customer cancellation reasons categorized and analyzed.
 - **Ratings:** Stable ratings from customers and drivers (~4.0).
+
 The Power BI dashboards and SQL queries enabled data-driven decision-making, helping OLA optimize operations and enhance customer satisfaction.
 
-
+---
